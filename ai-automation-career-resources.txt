@@ -1,0 +1,75 @@
+================================================================================
+  AI & WORKFLOW AUTOMATION FREELANCE/CONSULTING — MARKET RESEARCH & RESOURCES
+================================================================================
+
+Compiled: February 22, 2026
+
+
+--- MARKET DATA & REPORTS ---
+
+1. AI Consulting Market (2025-2029) — Research and Markets
+   https://www.researchandmarkets.com/reports/6113898/ai-consulting-market
+   Key stat: Market forecasted to grow by $38.15B during 2024-2029, CAGR 28.8%
+
+2. AI Consulting Services Market — Global Projection
+   Market projected from $22.27B (2025) to $257B+ by 2033
+
+3. AI Workflow Orchestration Market (2025-2029) — Research and Markets
+   https://www.researchandmarkets.com/reports/6111139/ai-workflow-orchestration-market
+   Key stat: Growth of $14.01B during 2024-2029, CAGR 32.2%
+
+4. AI Automation Market — MarketsandMarkets
+   https://www.marketsandmarkets.com/Market-Reports/ai-automation-market-217136319.html
+
+5. AI Workflow Automation Market — MarketsandMarkets
+   https://www.marketsandmarkets.com/Market-Reports/ai-workflow-automation-market-20895725.html
+   Key stat: No-code AI platforms projected to reach $24.8B by 2029, CAGR 38.2%
+
+6. IDC FutureScape: Worldwide AI and Automation 2024 Predictions
+   https://www.idc.com/wp-content/uploads/2025/03/IDC_FutureScape_Worldwide_Artificial_Intelligence_and_Automation_2024_Predictions_-_2023_Oct.pdf
+   Key stat: IPA software expected to reach $65.3B by 2027, CAGR 21.7%
+
+
+--- FREELANCE DEMAND DATA ---
+
+7. "Why 2026 Is the AI Consulting Gold Rush for Solopreneurs"
+   https://www.firstaimovers.com/p/european-sme-ai-consulting-market-2026
+   Key stats:
+   - European AI spending growing ~30% annually, expected to surpass €70B by 2026
+   - 78% of companies plan to hire freelancers for AI work within 3 months
+
+8. "AI Freelancing Facts and Trends 2026" — ExpertsHub
+   https://expertshub.ai/blog/ai-freelancing-trends-2026-what-businesses-expect/
+   Key stats:
+   - AI freelance demand on Upwork grew 100%+ YoY
+   - AI job postings growing 2x faster than qualified candidate availability
+   - Full-time AI engineer salaries exceed $130K/year in US
+   - Outcome-based freelance hiring: 30% faster completion, 20% lower costs
+   - Repeat freelance specialists reduce onboarding time by 40%
+
+9. "As AI Reshapes the Workforce, Freelancers Are Leading the Way" — Upwork
+   https://www.upwork.com/resources/how-freelancers-ai-reshaping-workforce
+
+10. "Demand for Freelancers Explodes Thanks to Agentic AI" — Computerworld
+    https://www.computerworld.com/article/3986821/freelancer-demand-explodes-thanks-to-ai-agents.html
+    Key stats:
+    - Fiverr: AI agent implementation searches rose 18,347% in 6 months
+    - Make.com automation demand rose 1,083%
+    - Germany specifically: AI agent searches rose 19,033%
+
+11. McKinsey Reference (cited in ExpertsHub article):
+    Companies integrating external AI specialists into core teams are
+    1.7x more likely to scale AI successfully.
+
+
+--- KEY TAKEAWAYS ---
+
+- The market is verified, massive, and growing at 28-38% CAGR across segments.
+- Freelance/contract model is preferred by most companies over full-time hires
+  for AI implementation work (cost efficiency + speed).
+- The talent gap is real: demand outpacing supply by 2x.
+- The window for premium rates is NOW through ~2028-2029.
+- Long-term viability depends on evolving from implementer to strategic advisor.
+
+
+================================================================================
